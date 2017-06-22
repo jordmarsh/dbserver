@@ -1,0 +1,19 @@
+{
+  "name": "dbserver",
+  "version": "1.0.0",
+  "description": "My Mongo server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordmarsh/dbserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordmarsh/dbserver/issues"
+  },
+  "homepage": "https://github.com/jordmarsh/dbserver#readme"
+}
